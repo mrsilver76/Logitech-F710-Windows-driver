@@ -1,5 +1,5 @@
 # Logitech-F710-Windows-driver
-An unofficial and unapproved unsigned Windows 10 driver for the Logitech F710 wireless controller
+*An (unofficial and unapproved) unsigned Windows 10 driver that actually works with the Logitech F710 wireless controller*
 
 Following the release of the Windows 10 May 2020 Update (2004), the driver for the Logitech F710 wireless controller can no longer be used. Although it can be installed, it does not survive a reboot. To date, Logitech have not provided a working signed replacement.
 
