@@ -5,7 +5,8 @@ Following a change to Windows back in May 2020, the XBox 360 driver for the Logi
 
 I am not the author. This page simply collates information from [here](https://answers.microsoft.com/en-us/windows/forum/windows_10-hardware/logitech-f710-on-windows-10-may-2020-update-2004/ec92ae61-24be-4a01-9905-d97b20d6d493), [here](https://www.reddit.com/r/Windows10/comments/hf5pre/logitech_f710_gamepad_wont_install_anymore_since/) and a file hosted on Google Drive into a single zip file which will install a modified XBox 360 driver that'll work with Windows 10 or 11 and the Logitech F710. As soon as Microsoft or Logitech provide a solution for XInput mode that continues to work after a reboot then this content will be removed.
 
-> :warning: **By following these instructions, you will be installing an unsigned driver which has been modified in unknown ways by an unknown third party.** This driver is not approved or endorsed by Logitech. You should be extremely clear on the risks of doing this before you start.
+> [!WARNING]
+>  **By following these instructions, you will be installing an unsigned driver which has been modified in unknown ways by an unknown third party.** This driver is not approved or endorsed by Logitech. You should be extremely clear on the risks of doing this before you start.
 
 ## Installation
 
@@ -33,6 +34,9 @@ Congratulations, you now have a working Logitech F710 wireless controller with W
 :black_nib: Think you can improve on these instuctions? Submit a pull request!
 
 ## Changelog
+
+2024-10-29
+* Reformatted warning message to use Github "warning" icon
 
 2024-07-04
 * Confirmed these instructions work for Windows 11 and updated description accordingly
