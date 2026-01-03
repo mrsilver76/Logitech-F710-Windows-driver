@@ -1,4 +1,7 @@
 # Logitech-F710-Windows-driver
+
+<p><img src="https://img.shields.io/badge/Windows-supported-0078D6?logo=windows&logoColor=white" alt="Windows"></p>
+
 *An unofficial, unsigned driver for Windows 10 or 11 that allows the Logitech F710 wireless controller to function in XInput mode*
 
 Following a change to Windows back in May 2020, the XBox 360 driver for the Logitech F710 wireless controller (in XInput mode) no longer works reliably with Windows 10 or Windows 11. Although it can be installed, it does not survive a reboot with the error message "*Device not migrated*". To date, neither Microsoft or Logitech have offered a solution for either version of Windows.
